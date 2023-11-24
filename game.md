@@ -3,5 +3,5 @@ title: Game
 ---
 
 My games:
-1. mario
-2. Pokemon
+1. FarmVille
+2. Solitaire
