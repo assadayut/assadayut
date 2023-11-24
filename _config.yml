@@ -1,7 +1,7 @@
 theme: minima
 title: PSU-DIIS Dev Sec Ops
-author: Suttipong
-description: Diis Desc
+author: Assadayut
+description: PSU-DIIS Dev Sec Ops VLOG Site 
 header_pages:
   - about.md
   - Publications.md
