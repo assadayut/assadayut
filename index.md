@@ -1,5 +1,5 @@
 ---
-title: my blog
+title: Devsecops Blog
 ---
 
 Hello this is my blog.
